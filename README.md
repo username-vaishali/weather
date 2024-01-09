@@ -1,3 +1,3 @@
-Weather Application/n
+Weather Application
 using HTML, CSS, JAVASCRIPT
 
